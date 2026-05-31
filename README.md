@@ -160,7 +160,13 @@ print(me.motto())
       <p><b>Stack:</b> Vertex AI · BigQuery · RAG Architecture · NL-to-SQL</p>
       <p>Multi-Agent RAG system for automotive diagnostics with real-time natural-language-to-SQL querying. Validated by <b>48+ Google Cloud Experts</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Live%20Demo-70A5FD?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <a href="https://ktm-ai-assistant.tiiny.site" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-70A5FD?style=flat-square&logo=googlecloud&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/Gautamgt1999/ktm-ai-assistant" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=flat-square&logo=github&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
