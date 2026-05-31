@@ -118,14 +118,14 @@ print(me.motto())
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=gautam-thiruvalluvan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=Gautamgt1999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-thiruvalluvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamgt1999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-thiruvalluvan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamgt1999&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -218,7 +218,7 @@ print(me.motto())
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam-thiruvalluvan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamgt1999&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
@@ -246,13 +246,13 @@ print(me.motto())
 <h2 align="center">🏅 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautam-thiruvalluvan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gautamgt1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gautam-thiruvalluvan&label=Profile%20Views&color=70A5FD&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Gautamgt1999&label=Profile%20Views&color=70A5FD&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/gautam-thiruvalluvan?label=Followers&style=flat-square&color=CBA6F7"/>
+  <img src="https://img.shields.io/github/followers/Gautamgt1999?label=Followers&style=flat-square&color=CBA6F7"/>
 </p>
 
 ---
@@ -266,11 +266,11 @@ print(me.motto())
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/gautam-thiruvalluvan" target="_blank">
+  <a href="https://www.linkedin.com/in/Gautamgt1999" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/gautam-thiruvalluvan" target="_blank">
+  <a href="https://github.com/Gautamgt1999" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
