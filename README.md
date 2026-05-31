@@ -1,4 +1,4 @@
-Markdown<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gautam%20Thiruvalluvan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20GenAI%20Architect&descAlignY=62&descSize=16" width="100%" alt="Hero Banner" />
 </p>
 
